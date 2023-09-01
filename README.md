@@ -190,8 +190,7 @@ Sara Beschi, VR474098
 ![File 5_37.2.2](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/5_37.2.2.PNG?raw=true)
  
 ## 6. Esercitazione 1
-L’esercitazione 1 comprende tutto quello visto fin’ora.
-Viene istanziato un modello statico, il “backpack.obj” utilizzato già nel capitolo del Model Loading (3_21.3).
+Nell'esercitazione viene istanziato un modello statico, il “backpack.obj” utilizzato già nel capitolo del Model Loading (3_21.3).
 Al modello statico viene aggiunto il lighting che è formato da:
 - 1 luce direzionale
 - 4 point light, di cui una ruota attorno al modello
