@@ -11,7 +11,7 @@ Il report completo del progetto è visualizzabile qui: [report.pdf](https://gith
 4. Hello Window
 4.4 Genera una finestra
 File 1_4.4
-!(https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_4.4.png)
+![File 1_4.4](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_4.4.png?raw=true)
 
 4.6 Genera una finestra con colore di sfondo
 File 1_4.6
