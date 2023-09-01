@@ -198,6 +198,7 @@ Al modello statico viene aggiunto il lighting che è formato da:
 
 L’illuminazione passa quindi attraverso la definizione di tutte le strutture dati necessarie che poi dal programma vengono passati allo shader dedicato. 
 Il lighting viene calcolato all'interno del tangent space.
+
 Sono inoltre implementate le solite funzioni riguardo l'input utente, in particolare il movimento della camera con i tasti WASD e la direzione di essa decisa dal movimento del mouse.
 
 ![File esercitazione1_](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/esercitazione1_.gif?raw=true)
