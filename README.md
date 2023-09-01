@@ -1,8 +1,6 @@
 # Programmazione Grafica
 Sara Beschi, VR474098
 
-<img src="https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_4.4.png?raw=true" width="50%" height="50%" />
-
 ## 1. Getting Started
 
 ### 4. Hello Window
