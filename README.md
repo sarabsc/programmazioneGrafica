@@ -31,7 +31,7 @@ Sara Beschi, VR474098
 ![File 1_6.3](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_6.3.png?raw=true)
 
 #### 6.4 Utilizzo degli uniforms per impostare attributi che possono cambiare nel tempo e per scambiare dati tra l'applicazione e gli shaders
-![File 1_6.4](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_6.4.png?raw=true)
+![File 1_6.4](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_6.4.gif?raw=true)
 
 #### 6.5 Specificando tre colori come attributi ai vertici del triangolo, si sfrutta l'interpolazione tra frammenti del fragment shader
 ![File 1_6.5](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/1_6.5.png?raw=true)
