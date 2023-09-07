@@ -188,8 +188,12 @@ Sara Beschi, VR474098
 ### 37. Normal Mapping
 #### 37.2.2 Utilizza il normal mapping per generare dettagli a basso costo attraverso la modifica di vettori delle normali per frammento senza dover modificare l'equazione dell'illuminazione
 ![File 5_37.2.2](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/5_37.2.2.PNG?raw=true)
- 
-## 6. Esercitazione 1
+
+## 6. Caricamento modello animato
+#### Riproduce l'animazione scheletale del repository: skeletal_animation_tutorial
+![File skeletal_animation](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/skeletal_animation.gif?raw=true)
+ 
+## 7. Esercitazione 1
 Nell'esercitazione 1 viene istanziato un modello statico, il “backpack.obj” utilizzato già nel capitolo del Model Loading (3_21.3).
 Al modello statico viene aggiunto il lighting che è formato da:
 - 1 luce direzionale
@@ -205,7 +209,7 @@ Sono inoltre implementate le solite funzioni riguardo l'input utente, in partico
 
 ![File esercitazione1](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/esercitazione1.gif?raw=true)
  
-## 7. Esercitazione 2 
+## 8. Esercitazione 2 
 Le POINT LIGHTS sono una tecnica usata per generare ombre dinamiche in tutte le direzioni, in quanto nel mondo che ci circonda una luce proveniente da un punto emette ombre in tutte le direzioni.
 La tecnica è per lo più simile alla mappatura direzionale delle ombre: si genera una mappa di profondità dalla prospettiva della luce, si campiona la mappa di profondità in base alla posizione corrente del frammento e si confronta ogni frammento con il valore di profondità memorizzato per vedere se è in ombra.
 La differenza principale tra la mappatura direzionale delle ombre e la mappatura omnidirezionale delle ombre è la mappa di profondità utilizzata (Depth Map).
