@@ -210,7 +210,7 @@ Sono inoltre implementate le solite funzioni riguardo l'input utente, in partico
 ![File esercitazione1](https://github.com/sarabsc/programmazioneGrafica/blob/main/media/esercitazione1.gif?raw=true)
  
 ## 8. Esercitazione 2 
-Le POINT LIGHTS sono una tecnica usata per generare ombre dinamiche in tutte le direzioni, in quanto nel mondo che ci circonda una luce proveniente da un punto emette ombre in tutte le direzioni.
+Le POINT SHADOWS sono una tecnica usata per generare ombre dinamiche in tutte le direzioni, in quanto nel mondo che ci circonda una luce proveniente da un punto emette ombre in tutte le direzioni.
 La tecnica è per lo più simile alla mappatura direzionale delle ombre: si genera una mappa di profondità dalla prospettiva della luce, si campiona la mappa di profondità in base alla posizione corrente del frammento e si confronta ogni frammento con il valore di profondità memorizzato per vedere se è in ombra.
 La differenza principale tra la mappatura direzionale delle ombre e la mappatura omnidirezionale delle ombre è la mappa di profondità utilizzata (Depth Map).
 La mappa di profondità di cui abbiamo bisogno richiede il rendering della scena da tutte le direzioni circostanti di un punto luce e quindi una normale mappa di profondità 2D non funziona. Si potrebbe perciò usare una cubemap. Con essa è possibile eseguire il rendering dell'intera scena su ciascuna delle facce di una cubemap e campionare questi dati come valori di profondità circostanti del punto luce, poiché una cubemap può memorizzare i dati completi dell'ambiente con solo 6 facce.
